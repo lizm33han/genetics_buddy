@@ -1,8 +1,9 @@
 # genetics_buddy
 
-🧬 **Genetics Study Buddy**
+🧬 **Genetics Study Buddy: Ask Gene**
 
 **An AI-powered tutor to help high school students learn genetics clearly and interactively.**
+<p>Talk to Gene here! https://www.chatbase.co/3QYM9fSjW4go5sDoMLZ56/help
 
 🌟 **Overview**
 
