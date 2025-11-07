@@ -3,7 +3,9 @@
 🧬 **Genetics Study Buddy: Ask Gene**
 
 **An AI-powered tutor to help high school students learn genetics clearly and interactively.**
-<p>Talk to Gene here! https://www.chatbase.co/3QYM9fSjW4go5sDoMLZ56/help
+
+[![Chat with Genetics Study Buddy](https://img.shields.io/badge/Chatbase-Live%20Demo-blue?style=for-the-badge&logo=openai)](https://www.chatbase.co/3QYM9fSjW4go5sDoMLZ56/help)
+
 
 🌟 **Overview**
 
