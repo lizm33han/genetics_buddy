@@ -31,16 +31,17 @@ It uses conversational AI to simplify complex biology concepts, promote critical
 
 1. Visit Chatbase.com to explore and build conversational AI agents.
 
-2. Train your agent using selected LibreTexts URLs as source material.
+2. Train your agent using selected LibreTexts URLs as source material. The Chatbase free tier allows for up to 10 separate links.
 
-3. Set your system prompt (like the one in this repository system_prompt) to control tone, style, and educational goals.
+3. Set your system prompt to control tone, style, and educational goals (ex. system_prompt).
 
-4. Test and refine your chatbot using different student prompts.
+4. Test and refine your chatbot using different student prompts. Use an evaluation form to assess your model (ex. prompts_eval_template.csv).
 
 🧩 **Example Source**
 
 Introduction to Genetics (Singh) – LibreTexts
 https://bio.libretexts.org/Bookshelves/Genetics/Introduction_to_Genetics_(Singh)
+I used sections 1.1, 1.2, 1.4, 1.5, and 1.6.
 
 🧾 **License**
 
