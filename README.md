@@ -9,23 +9,33 @@
 **Genetics Study Buddy** is an experimental chatbot trained on select sections from the first chapter of Introduction to Genetics (Singh) from LibreTexts.
 It uses conversational AI to simplify complex biology concepts, promote critical thinking, and make genetics more approachable for learners.
 
-⚙️ **Tech Stack**
+⚙️ **Technologies Used**
 
-**Chatbase** – conversational AI platform
+- **Chatbase** – conversational AI platform
 
-**LibreTexts** – open educational content source
+- **LibreTexts** – open educational content source
 
-**GitHub Pages / Markdown** – documentation and version control
+- **GitHub Pages / Markdown** – documentation and version control
 
 💡 **Key Features**
 
-Step-by-step tutoring with clear explanations
+- Step-by-step tutoring with clear explanations
 
-Reflective prompts to deepen understanding
+- Reflective prompts to deepen understanding
 
-Content aligned with biology curriculum standards
+- Content aligned with biology curriculum standards
 
-Built using open, noncommercial resources
+- Built using open, noncommercial resources
+
+💻 **Getting Started**
+
+1. Visit Chatbase.com to explore and build conversational AI agents.
+
+2. Train your agent using selected LibreTexts URLs as source material.
+
+3. Set your system prompt (like the one in this repository system_prompt) to control tone, style, and educational goals.
+
+4. Test and refine your chatbot using different student prompts.
 
 🧩 **Example Source**
 
