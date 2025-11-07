@@ -23,6 +23,8 @@ After creating the chatbot, I will test and evaluate responses and update this r
 
 - **GitHub Pages / Markdown** – documentation and version control
 
+- **Canva** - icon graphics for chat bot page
+
 💡 **Key Features**
 
 - Step-by-step tutoring with clear explanations
