@@ -47,16 +47,16 @@ After creating the chatbot, I will test and evaluate responses and update this r
 
 🧩 **Example Source**
 
-Introduction to Genetics (Singh) – LibreTexts
-https://bio.libretexts.org/Bookshelves/Genetics/Introduction_to_Genetics_(Singh)
+[Introduction to Genetics (Singh)](https://bio.libretexts.org/Bookshelves/Genetics/Introduction_to_Genetics_(Singh)) – LibreTexts
+
 I used sections 1.1, 1.2, 1.4, 1.5, and 1.6.
 
 🧾 **License**
 
-This project incorporates materials from LibreTexts https://libretexts.org/
+This project incorporates materials from [LibreTexts](https://libretexts.org/)
 licensed under <b>Creative Commons Attribution–NonCommercial–ShareAlike 4.0 International (CC BY-NC-SA 4.0)</b>.
 All derivative content here is shared under the same license.
 
 🙌 **Acknowledgments**
 
-Thanks to **LibreTexts** for its open-access resources and to **Chatbase** for enabling AI-driven educational tools.
+Thanks to **LibreTexts** for its open-access resources and to **Chatbase** for enabling AI-driven educational tools. Additionally, thanks to **Canva** for making quick logos so simple!
